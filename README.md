@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://matheu46.github.io/QrCodeComponent/](https://your-solution-url.com)
+- Solution URL [Here](https://matheu46.github.io/QrCodeComponent/)
 
 ### Built with
 
@@ -14,4 +14,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@Matheu46](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Matheu46](https://www.frontendmentor.io/profile/Matheu46)
